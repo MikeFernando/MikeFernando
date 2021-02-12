@@ -1,5 +1,10 @@
 <!-- <img src="assets/cover.gif" /> -->
 
+# E ai, beleza? 🤙
+<hr>
+### Sou um desenvolvedor Full Stack apaixonado pelas melhores tecnologias de desenvolvimento web e móvel. Tenho experiência com projetos utilizando JavaScript, Typescript, NodeJS, ReactJS e React Native. Sou aluno do Bootcamp Gostack at Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile.
+
+
 <!-- Social Networks -->
 [![Instagram Badge](https://img.shields.io/badge/-mikinho021-ec544c?style=social-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mikinho021/?hl=pt-br)](https://www.instagram.com/mateusj.dev/)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-Mike%20Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-fernando3g)](https://www.linkedin.com/in/mike-fernando3g/)
