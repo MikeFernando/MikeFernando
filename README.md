@@ -1,6 +1,6 @@
 <!-- Cover -->
 <p align="center">
-	<img src="./assets/readme.gif" alt="cover" title="Mike Fernando" style="border-radius: 15px; box-shadow: 10px 10px 10px 10px rgba(0,0,0, .5);">
+	<img src="./assets/avatar.jpg" alt="cover" title="Mike Fernando" style="border-radius: 15px; box-shadow: 10px 10px 10px 10px rgba(0,0,0, .5);">
 </p>
 
 <!-- Social Networks -->
