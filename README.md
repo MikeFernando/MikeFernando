@@ -5,12 +5,13 @@
 
 <!-- Social Networks -->
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Jesus-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-jesus/)](https://www.linkedin.com/in/mateus-jesus/)&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-mikefernando.dev-ec544c?style=social-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mikinho021/?hl=pt-br)](https://www.instagram.com/mateusj.dev/)&nbsp;
-[![Twitter Badge](https://img.shields.io/twitter/url?label=MtsJ3sus&style=social&url=https%3A%2F%2Ftwitter.com%2FMtsJ3sus)](https://twitter.com/MtsJ3sus)&nbsp;
-[![GitHub Badge](https://img.shields.io/badge/-MateusJSouza-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/MateusJSouza)&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-mikinho021-ec544c?style=social-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mikinho021/?hl=pt-br)](https://www.instagram.com/mateusj.dev/)&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-Mike%20Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-fernando3g)](https://www.linkedin.com/in/mike-fernando3g/)
+  [![Twitter Badge](https://img.shields.io/badge/-@MikeraOn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lukemorales)](https://twitter.com/MikeraOn)
+[![GitHub Badge](https://img.shields.io/badge/-MikeFernando-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/MikeFernando)&nbsp;
 
 <!-- GitHub Stats -->
-![Mateus Jesus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusJSouza&theme=chartreuse-dark&show_icons=true)
+![Mike Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeFernando&theme=chartreuse-dark&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJSouza&layout=compact&theme=chartreuse-dark)](https://github.com/MateusJSouza/github-readme-stats)
@@ -22,7 +23,7 @@
 - 🔭 I’m currently  studying to get a job.
 - 🌱 I have experience with Typescript, Node.js, ReactJS, and React Native.
 - See my LinkedIn: [MIKE FERNANDO](https://www.linkedin.com/in/mike-fernando3g/)
-🚀 Atualmente estou estudando front-end na plataforma [Devmedia](https://devmedia.com.br) além de outros cursos que também utilizo para estudos, como a plataforma da [Rocketseat](https://rocketseat.com.br) e [Udemy](https://udemy.com.br).
+🚀 Atualmente estou estudando front-end na plataforma [Programador BR](https://programadorbr.com/) além de outros cursos que também utilizo para estudos, como a plataforma da [Rocketseat](https://rocketseat.com.br) e [Udemy](https://udemy.com.br).
 
 <!-- Languages, libs and frameworks -->
 ![HTML5](https://img.shields.io/badge/-HTML-fff?style=flat&logo=HTML5)&nbsp;
