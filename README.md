@@ -1,7 +1,3 @@
-<!-- Cover -->
-<p align="center">
-	<img src="./assets/avatar.jpg" width="150" style="border-radius: 50%">
-</p>
 
 <!-- Social Networks -->
 [![Instagram Badge](https://img.shields.io/badge/-mikinho021-ec544c?style=social-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mikinho021/?hl=pt-br)](https://www.instagram.com/mateusj.dev/)&nbsp;
@@ -15,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeFernando&layout=compact&theme=chartreuse-dark)](https://github.com/MikeFernando/github-readme-stats)
 
-## E aí, beleza? 🤙🏽
+ <img src="./assets/avatar.jpg" width="150" > ## E aí, beleza? 🤙🏽
 
 👨🏽‍💻 Sou um desenvolvedor Full Stack apaixonado pelas melhores tecnologias de desenvolvimento web e móvel. Tenho experiência com projetos utilizando JavaScript, Typescript, NodeJS, ReactJS e React Native. Sou aluno do Bootcamp Gostack at Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile.
 
