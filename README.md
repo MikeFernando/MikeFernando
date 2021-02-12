@@ -6,9 +6,11 @@
   [![Twitter Badge](https://img.shields.io/badge/-@MikeraOn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lukemorales)](https://twitter.com/MikeraOn)
 [![GitHub Badge](https://img.shields.io/badge/-MikeFernando-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/MikeFernando)&nbsp;
 
-<!-- GitHub Stats -->
-![Mike Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeFernando&theme=chartreuse-dark&show_icons=true) <span> Sou um desenvolvedor Full Stack apaixonado pelas melhores tecnologias de desenvolvimento web e móvel. Tenho experiência com projetos utilizando JavaScript, Typescript, NodeJS, ReactJS e React Native. Sou aluno do Bootcamp Gostack at Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile. </span>
+<span style="width="100""> Sou um desenvolvedor Full Stack apaixonado pelas melhores tecnologias de desenvolvimento web e móvel. Tenho experiência com projetos utilizando JavaScript, Typescript, NodeJS, ReactJS e React Native. Sou aluno do Bootcamp Gostack at Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile. </span>
 
+
+<!-- GitHub Stats -->
+![Mike Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeFernando&theme=chartreuse-dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeFernando&layout=compact&theme=chartreuse-dark)](https://github.com/MikeFernando/github-readme-stats)
 
