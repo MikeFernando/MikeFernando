@@ -7,7 +7,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-MikeFernando-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/MikeFernando)&nbsp;
 
 <!-- GitHub Stats -->
-![Mike Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeFernando&theme=chartreuse-dark&show_icons=true)
+![Mike Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeFernando&theme=chartreuse-dark&show_icons=true) <span> Sou um desenvolvedor Full Stack apaixonado pelas melhores tecnologias de desenvolvimento web e móvel. Tenho experiência com projetos utilizando JavaScript, Typescript, NodeJS, ReactJS e React Native. Sou aluno do Bootcamp Gostack at Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile. </span>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeFernando&layout=compact&theme=chartreuse-dark)](https://github.com/MikeFernando/github-readme-stats)
