@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeFernando&layout=compact&theme=chartreuse-dark)](https://github.com/MikeFernando/github-readme-stats)
 
- <img src="./assets/avatar.jpg" width="150" > ## E aí, beleza? 🤙🏽
+ <img src="./assets/avatar.jpg" style="border-radiu: 50%; width: 100px" > ## E aí, beleza? 🤙🏽
 
 👨🏽‍💻 Sou um desenvolvedor Full Stack apaixonado pelas melhores tecnologias de desenvolvimento web e móvel. Tenho experiência com projetos utilizando JavaScript, Typescript, NodeJS, ReactJS e React Native. Sou aluno do Bootcamp Gostack at Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile.
 
