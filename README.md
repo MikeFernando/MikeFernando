@@ -1,6 +1,6 @@
+<!--<img src="assets/avatar.jpg" width="100"  /> -->
 
-
-<img src="assets/avatar.jpg" width="50"  /> # E ai, beleza? 🤙 
+# E ai, beleza? 🤙 
 Sou um desenvolvedor Full Stack apaixonado pelas melhores tecnologias de desenvolvimento web e móvel. Tenho experiência com projetos utilizando JavaScript, Typescript, NodeJS, ReactJS e React Native. Sou aluno do Bootcamp Gostack at Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile.
 </br>
 
