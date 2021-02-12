@@ -1,4 +1,4 @@
- <video src="assets/cover.mp4" />
+ <img src="assets/cover.3G2" />
 
 <!-- Social Networks -->
 [![Instagram Badge](https://img.shields.io/badge/-mikinho021-ec544c?style=social-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mikinho021/?hl=pt-br)](https://www.instagram.com/mateusj.dev/)&nbsp;
