@@ -4,7 +4,6 @@
 </p>
 
 <!-- Social Networks -->
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Jesus-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-jesus/)](https://www.linkedin.com/in/mateus-jesus/)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-mikinho021-ec544c?style=social-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mikinho021/?hl=pt-br)](https://www.instagram.com/mateusj.dev/)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-Mike%20Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-fernando3g)](https://www.linkedin.com/in/mike-fernando3g/)
   [![Twitter Badge](https://img.shields.io/badge/-@MikeraOn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lukemorales)](https://twitter.com/MikeraOn)
@@ -14,7 +13,7 @@
 ![Mike Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeFernando&theme=chartreuse-dark&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJSouza&layout=compact&theme=chartreuse-dark)](https://github.com/MateusJSouza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeFernando&layout=compact&theme=chartreuse-dark)](https://github.com/MikeFernando/github-readme-stats)
 
 ## E aí, beleza? 🤙🏽
 
