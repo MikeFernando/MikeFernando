@@ -6,7 +6,7 @@
   [![Twitter Badge](https://img.shields.io/badge/-@MikeraOn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lukemorales)](https://twitter.com/MikeraOn)
 [![GitHub Badge](https://img.shields.io/badge/-MikeFernando-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/MikeFernando)&nbsp;
 
-<span style="width="100""> Sou um desenvolvedor Full Stack apaixonado pelas melhores tecnologias de desenvolvimento web e móvel. Tenho experiência com projetos utilizando JavaScript, Typescript, NodeJS, ReactJS e React Native. Sou aluno do Bootcamp Gostack at Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile. </span>
+<span> Sou um desenvolvedor Full Stack apaixonado pelas melhores tecnologias de desenvolvimento web e móvel. Tenho experiência com projetos utilizando JavaScript, Typescript, NodeJS, ReactJS e React Native. Sou aluno do Bootcamp Gostack at Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile. </span>
 
 
 <!-- GitHub Stats -->
