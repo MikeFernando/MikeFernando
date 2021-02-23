@@ -42,7 +42,7 @@ Estão aqui algumas das minhas habilidades e conhecimentos como Desenvolvedor Fr
 - 🎲 **Banco de Dados**: Linguagem SQL, Modelagem de dados, PostgreSQL.
 - 🏗️ **Infraestrutura**: HTTP, Windows 10.
 - 👷🏻 **Arquitetura**: Rest, Orientação a Objetos.
-- 📈 **Engenharia de Software**: Levantamento de requ
+- 📈 **Engenharia de Software**: Levantamento de requisitos
 
 
 
