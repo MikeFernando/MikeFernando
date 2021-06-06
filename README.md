@@ -1,5 +1,5 @@
 <img src="assets/github.gif" > <br>
-![Snake animation](https://github.com/MikeFernando/MikeFernando/blob/github-user-contribution.svg)
+![Snake animation](https://github.com/MikeFernando/MikeFernando/blob/main/github-user-contribution.svg)
 
 Sou um desenvolvedor Full Stack apaixonado pelas melhores tecnologias de desenvolvimento web e mobile. Tenho experiência com projetos utilizando JavaScript, Typescript, NodeJS, ReactJS e React Native. Sou aluno do Bootcamp Gostack at Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile.
 </br>
