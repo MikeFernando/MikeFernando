@@ -11,11 +11,6 @@ Sou um desenvolvedor Full Stack apaixonado pelas melhores tecnologias de desenvo
 [![GitHub Badge](https://img.shields.io/badge/-MikeFernando-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/MikeFernando)&nbsp;
 
 
-<!-- GitHub Stats -->
-![Mike Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeFernando&theme=chartreuse-dark&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeFernando&layout=compact&theme=chartreuse-dark)](https://github.com/MikeFernando/github-readme-stats)
-
 - 🔭 Atualmente, estou estudando para conseguir um emprego.
 - 🌱 Tenho experiência com Typescript, Node.js, ReactJS e React Native.
 - Veja meu LinkedIn: [MIKE FERNANDO](https://www.linkedin.com/in/mike-fernando3g/)
