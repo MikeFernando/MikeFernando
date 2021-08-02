@@ -8,7 +8,6 @@ Sou um desenvolvedor Full Stack apaixonado pelas melhores tecnologias de desenvo
 [![Instagram Badge](https://img.shields.io/badge/-mikinho021-ec544c?style=social-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mikinho021/?hl=pt-br)](https://www.instagram.com/mikinho021/?hl=pt-br)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-Mike%20Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-fernando3g)](https://www.linkedin.com/in/mike-fernando3g/)
   [![Twitter Badge](https://img.shields.io/badge/-@MikeraOn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lukemorales)](https://twitter.com/MikeraOn)
-[![GitHub Badge](https://img.shields.io/badge/-MikeFernando-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/MikeFernando)&nbsp;
 
 
 - 🔭 Atualmente, estou estudando para conseguir um emprego.
