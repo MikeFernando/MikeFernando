@@ -1,5 +1,14 @@
-Sou um desenvolvedor front-end apaixonado pelas melhores tecnologias de desenvolvimento web e mobile. Tenho experiência com projetos utilizando JavaScript, Typescript, NodeJS, ReactJS e React Native. Sou aluno do bootcamp Ignite na Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile.
-</br>
+# Mike Fernando
+
+## Opa pessoal 👋
+
+Sou desenvolvedor front-end júnior :computer:. Super apaixonado pelo ramo da programação, atualmente estudando cada vez mais!
+
+ :rocket:  &nbsp; Estou estudando desenvolvimento front-end na Rocketseat
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
+ <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML, React, Next.js e Wordpress básico
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Next,js e Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias desde sempre, sou um gamer nato 😎🎮 e adoro assistir séries em geral!
 
 <!-- Social Networks -->
  [![Twitter Badge](https://img.shields.io/badge/-@mikeraON-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/MikeraOn)
