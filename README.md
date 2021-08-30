@@ -1,5 +1,3 @@
-# Mike Fernando
-
 ## Opa pessoal 👋
 
 Sou desenvolvedor front-end júnior :computer:. Super apaixonado pelo ramo da programação, atualmente estudando cada vez mais!
