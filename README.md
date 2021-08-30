@@ -2,9 +2,9 @@ Sou um desenvolvedor front-end apaixonado pelas melhores tecnologias de desenvol
 </br>
 
 <!-- Social Networks -->
-[![Instagram Badge](https://img.shields.io/badge/-mikinho021-ec544c?style=social-square&logo=Instagram&logoColor=eba417&link=https://www.instagram.com/mikinho021/?hl=pt-br)](https://www.instagram.com/mikinho021/?hl=pt-br)&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-Mike%20Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-fernando3g)](https://www.linkedin.com/in/mike-fernando3g/)
-  [![Twitter Badge](https://img.shields.io/badge/-@MikeraOn-1ca0f1?style=flat-square&labelColor=eba417&logo=twitter&logoColor=white&link=https://twitter.com/lukemorales)](https://twitter.com/MikeraOn)
+ [![Twitter Badge](https://img.shields.io/badge/-@mikeraON-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/MikeraOn)
+[![Linkedin Badge](https://img.shields.io/badge/-MikeFernando-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-fernando3g)](https://www.linkedin.com/in/mike-fernando3g/)
+[![Gmail Badge](https://img.shields.io/badge/-MikeFernando-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tnsmikera@gmail.com)](mailto:tnsmikera@gmail.com)
 
 
 - 🔭 Atualmente, estou estudando para conseguir um emprego.
