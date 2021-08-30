@@ -11,5 +11,5 @@ Sou desenvolvedor front-end júnior :computer:. Super apaixonado pelo ramo da pr
 <!-- Social Networks -->
  [![Twitter Badge](https://img.shields.io/badge/-@mikeraON-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/MikeraOn)
 [![Linkedin Badge](https://img.shields.io/badge/-MikeFernando-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-fernando3g)](https://www.linkedin.com/in/mike-fernando3g/)
-[![Gmail Badge](https://img.shields.io/badge/-MikeFernando-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tnsmikera@gmail.com)](mailto:tnsmikera@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tnsmikera@gmail.com)](mailto:tnsmikera@gmail.com)
 
