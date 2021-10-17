@@ -5,7 +5,7 @@ Sou desenvolvedor front-end júnior :computer:. Super apaixonado pelo ramo da pr
  :rocket:  &nbsp; Estou estudando desenvolvimento front-end na Rocketseat
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
  <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML, React, Next.js
- <br/> :computer: &nbsp; Minha stack: ReactJS, Next,js e Typescript
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Next,js e Javascript Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias desde sempre, sou um gamer nato 😎🎮 e adoro assistir séries em geral!
 
 <!-- Social Networks -->
