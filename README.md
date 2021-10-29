@@ -6,7 +6,7 @@ Sou desenvolvedor front-end júnior :computer:. Super apaixonado pelo ramo da pr
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
  <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML, React, Next.js
  <br/> :computer: &nbsp; Minha stack: ReactJS, Next,js e Javascript Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias desde sempre, sou um gamer nato 😎🎮 e adoro assistir séries em geral!
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias desde sempre, sou um gamer nato 😎🎮 e adoro assistir séries em geral
 
 <!-- Social Networks -->
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-9400D3?style=flat-square&labelColor=9400D3&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/MikeraOn)
