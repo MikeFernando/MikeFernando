@@ -9,7 +9,7 @@ Sou desenvolvedor front-end júnior :computer:. Super apaixonado pelo ramo da pr
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias desde sempre, sou um gamer nato 😎🎮 e adoro assistir séries em geral!
 
 <!-- Social Networks -->
- [![Twitter Badge](https://img.shields.io/badge/-Twitter-663399?style=flat-square&labelColor=663399&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/MikeraOn)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-663399?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-fernando3g)](https://www.linkedin.com/in/mike-fernando3g/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-663399?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tnsmikera@gmail.com)](mailto:tnsmikera@gmail.com)
+ [![Twitter Badge](https://img.shields.io/badge/-Twitter-00e600?style=flat-square&labelColor=00e600&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/MikeraOn)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-00e600?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-fernando3g)](https://www.linkedin.com/in/mike-fernando3g/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-00e600?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tnsmikera@gmail.com)](mailto:tnsmikera@gmail.com)
 
