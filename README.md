@@ -1,6 +1,6 @@
 ## Opa pessoal 👋
 
-Sou desenvolvedor front-end júnior :computer:. Super apaixonado pelo ramo da programação, atualmente estudando cada vez mais!
+Sou desenvolvedor front-end :computer:. Super apaixonado pelo ramo da programação, atualmente estudando cada vez mais!
 
  :rocket:  &nbsp; Estou estudando desenvolvimento front-end na Rocketseat
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
