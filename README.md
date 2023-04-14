@@ -24,7 +24,7 @@ I'm passionate about JavaScript, TypeScript, React and everything that involves 
 
 My main skill is using React and React Native. I'm a great enthusiast NodeJS too.
 
-I have a degree in Systems Analysis and Development from [UNINTER]([https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/](https://www.uninter.com/graduacao-ead/?gclid=CjwKCAjw8-OhBhB5EiwADyoY1eUe1Zguaud59a8hnDBdBzfa6r7DBzeJBTKyigTwzCcggAflpZkT8RoCAnwQAvD_BwE)).
+I have a degree in Systems Analysis and Development from [UNINTER](https://www.uninter.com/graduacao-ead/?gclid=CjwKCAjw8-OhBhB5EiwADyoY1eUe1Zguaud59a8hnDBdBzfa6r7DBzeJBTKyigTwzCcggAflpZkT8RoCAnwQAvD_BwE).
 
 I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. GoStack is a bootcamp focused on React, React Native and Node stacks.
 
