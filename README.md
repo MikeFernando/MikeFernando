@@ -2,7 +2,7 @@
 
 <h2>I'm Mike Fernando! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/think.gif" width="30px" height="30px"></h2>
 
-I'm Front-End Developer.
+I'm Front-End Developer
 
 <!-- <sup>*_WakaTime started counting from Mar 24 2021_</sup> -->
 
