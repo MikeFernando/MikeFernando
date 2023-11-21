@@ -1,20 +1,18 @@
-<h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+<h1> Hi, I'm Mike Fernando! 💻</h1>
 
-<h2>I'm Mike Fernando! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/think.gif" width="30px" height="30px"></h2>
+<div> 
+     <a href="https://www.instagram.com/eai_mikera?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+     <a href = "mailto:applemikera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+     <a href="https://www.linkedin.com/mwlite/in/mike-fernando3g" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://wa.me/+5515998541777" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ </div>
+<h2 align="left">
+This is my favorite environment, where ideas and innovation become code.
+</h2>
+<p>I'm a developer fascinated by technology! Since childhood, when I had my first contact with computing, I have explored and discovered more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. My dream is to travel the world, sharing my knowledge and gaining new experiences. I believe that access to knowledge is fundamental for everyone, and I also have the desire to live in Suíça or Canada for a period of time.</p>
 
-I'm Front-End Developer.
-
-I'm passionate about JavaScript, TypeScript, React and everything that involves these technologies.
-
-My main skill is using React and React Native. I'm a great enthusiast NodeJS too.
-
-I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. GoStack is a bootcamp focused on React, React Native and Node stacks.
-
-I am also certified in the [Rocketseat Ignite](https://rocketseat.com.br/ignite) course, focused on React.
-
-<!-- <sup>*_WakaTime started counting from Mar 24 2021_</sup> -->
-
-[![Linkedin Badge](https://img.shields.io/badge/-Mike%20Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tavareshenrique/)](https://www.linkedin.com/in/mike-fernando3g/) [![Gmail Badge](https://img.shields.io/badge/-applemikera@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:applemikera@gmail.com)](mailto:applemikera@gmail.com) [![Rocketseat Badge](https://img.shields.io/badge/-Mike%20Fernando-8257E6?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/mikefernando3g/)](https://app.rocketseat.com.br/me/mikefernando3g/)<!-- [![wakatime](https://wakatime.com/badge/user/6a642431-5263-409d-8ec5-d8fe2cdcf328.svg)](https://wakatime.com/@6a642431-5263-409d-8ec5-d8fe2cdcf328) !-->
+<p>You can contact me by email:<a href="mailto:gustavomiranda.contato@outlook.com">gustavomiranda.contato@outlook.com</a>.</p> 
+<br>
 
 <p>I have knowledge in: </p>
 <div align="left">
@@ -29,5 +27,6 @@ I am also certified in the [Rocketseat Ignite](https://rocketseat.com.br/ignite)
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoMiranda01&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GustavoMiranda01&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
+
 
 
