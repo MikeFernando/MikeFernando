@@ -11,7 +11,7 @@ This is my favorite environment, where ideas and innovation become code.
 </h2>
 <p>I'm a developer fascinated by technology! Since childhood, when I had my first contact with computing, I have explored and discovered more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. My dream is to travel the world, sharing my knowledge and gaining new experiences. I believe that access to knowledge is fundamental for everyone, and I also have the desire to live in Suíça or Canada for a period of time.</p>
 
-<p>You can contact me by email:<a href="mailto:applemikera@gmail.com">mikefernando.contato@outlook.com</a>.</p> 
+<p>You can contact me by email: <a href="mailto:mikefernando.contato@outlook.com">mikefernando.contato@outlook.com</a>.</p> 
 <br>
 
 <p>I have knowledge in: </p>
