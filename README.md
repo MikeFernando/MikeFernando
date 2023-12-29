@@ -9,7 +9,7 @@
 <h2 align="left">
 Este é o meu ambiente favorito, onde ideias e inovação se tornam código.
 </h2>
-<p>I'm a developer fascinated by technology! Since childhood, when I had my first contact with computing, I have explored and discovered more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. My dream is to travel the world, sharing my knowledge and gaining new experiences. I believe that access to knowledge is fundamental for everyone.</p>
+<p>Sou um desenvolvedor fascinado por tecnologia! Desde criança, quando tive meu primeiro contato com a computação, tenho explorado e descoberto cada vez mais sobre esse fascinante campo. Acredito que a tecnologia oferece oportunidades incríveis para melhorar a vida das pessoas. Meu sonho é viajar pelo mundo, compartilhando meus conhecimentos e adquirindo novas experiências. Acredito que o acesso ao conhecimento é fundamental para todos.</p>
 
 <p>You can contact me by email: <a href="mailto:mikefernando.contato@outlook.com">mikefernando.contato@outlook.com</a></p> 
 <br>
