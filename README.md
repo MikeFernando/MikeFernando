@@ -11,7 +11,7 @@ Este é o meu ambiente favorito, onde ideias e inovação se tornam código.
 </h2>
 <p>Sou um desenvolvedor fascinado por tecnologia! Desde criança, quando tive meu primeiro contato com a computação, tenho explorado e descoberto cada vez mais sobre esse fascinante campo. Acredito que a tecnologia oferece oportunidades incríveis para melhorar a vida das pessoas. Meu sonho é viajar pelo mundo, compartilhando meus conhecimentos e adquirindo novas experiências. Acredito que o acesso ao conhecimento é fundamental para todos.</p>
 
-<p>You can contact me by email: <a href="mailto:mikefernando.contato@outlook.com">mikefernando.contato@outlook.com</a></p> 
+<p>Você pode entrar em contato comigo por e-mail: <a href="mailto:mikefernando.contato@outlook.com">mikefernando.contato@outlook.com</a></p> 
 <br>
 
 <p>I have knowledge in: </p>
