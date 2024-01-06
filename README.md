@@ -14,7 +14,7 @@ Este é o meu ambiente favorito, onde ideias e inovação se tornam código.
 <p>Você pode entrar em contato comigo por e-mail: <a href="mailto:mikefernando.contato@outlook.com">mikefernando.contato@outlook.com</a></p> 
 <br>
 
-<p>Tenho conhecimento em: </p>
+<p>Tenho conhecimentos em: </p>
 <div align="left">
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,figma,vscode
