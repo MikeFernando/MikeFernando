@@ -21,7 +21,7 @@ Este é o meu ambiente favorito, onde ideias e inovação se tornam código.
 )](https://skillicons.dev)
 
 </div>
-  <img align="left" height="198" width="358" alt="coding-time" src="code.gif">
+  <img align="left" height="198" width="350" style="margin-right: 10px; border-radius: 8px" alt="coding-time" src="code.gif">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MikeFernando&theme=nord_dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikeFernando&theme=nord_dark) 
