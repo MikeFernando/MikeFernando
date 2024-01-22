@@ -10,20 +10,11 @@
 Este é o meu ambiente favorito, onde ideias e inovação se tornam código.
 </h2>
 <p>Sou um desenvolvedor fascinado por tecnologia! Desde criança, quando tive meu primeiro contato com a computação, tenho explorado e descoberto cada vez mais sobre esse fascinante campo. Acredito que a tecnologia oferece oportunidades incríveis para melhorar a vida das pessoas. Meu sonho é viajar pelo mundo, compartilhando meus conhecimentos e adquirindo novas experiências. Acredito que o acesso ao conhecimento é fundamental para todos.</p>
-
-<p>Você pode entrar em contato comigo por e-mail: <a href="mailto:mikefernando.contato@outlook.com">mikefernando.contato@outlook.com</a></p> 
-<br>
-
 <p>Tenho conhecimentos em: </p>
-<div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,figma,vscode
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,c,nodejs,react,git,figma,vscode
 )](https://skillicons.dev)
 
-</div>
-<div border="8px" margin="10px" style="margin-right: 10px; border-radius: 8px;">
-  <img align="left" style="margin-right: 10px; border-radius: 8px;" height="198" width="350" alt="coding-time" src="code.gif">
-</div>
+  <img src="code.gif" width="1000" height="600">
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MikeFernando&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikeFernando&theme=nord_dark) 
+
