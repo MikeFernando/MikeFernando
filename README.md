@@ -9,11 +9,13 @@
 
 <br>
 
-  <h2 align="left">This is my favorite environment, where ideas and innovation become code.</h2>
+  <h2 align="center">This is my favorite environment, where ideas and innovation become code.</h2>
 
   <p>I'm a developer fascinated by technology! Since I was a child, when I had my first contact with computing, I have explored and discovered more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. My dream is to travel the world, sharing my knowledge and gaining new experiences. I believe that access to knowledge is fundamental for everyone.</p>
 
-  <div> 
+  <br>
+  <br>
+  <div align="center"> 
      <a href="https://www.instagram.com/eai_mikera?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
      <a href = "mailto:applemikera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
      <a href="https://www.linkedin.com/in/mike-fernando3g/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
