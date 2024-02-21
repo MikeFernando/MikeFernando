@@ -1,5 +1,7 @@
 <h1 align="center">Hey guys 👋</h1>
-<img align="center" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="200" height="150" />
+<div align="center">
+  <img align="center" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="200" height="150" />
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
