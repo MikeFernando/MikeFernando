@@ -1,4 +1,3 @@
-<h1 align="center">Hey guys 👋</h1>
 <div align="center">
   <img align="center" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="200" height="150" />
 </div>
@@ -8,8 +7,6 @@
 <a href="https://www.linkedin.com/in/mike-fernando3g/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
-
-<h2 align="center">📚 Languages / Tools / My Skills </h2>
 
 <p align="center"> 
 <!--CSharp-->
