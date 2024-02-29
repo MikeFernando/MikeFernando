@@ -8,11 +8,4 @@
 </a>
 </p>
 
-<p align="center"> 
-  <!--React-->
-  <a href="https://react.dev/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=00C77F"/>
-  </a>
-   
-</p>
 
