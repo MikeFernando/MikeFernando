@@ -38,25 +38,19 @@
 
 <h3><samp>💻 Tech Stack</samp></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,postman,nodejs,postgresql,docker,figma)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,postman,nodejs,postgresql,docker,figma" />
+</p>
 
 ---
 
-<h3><samp>📱 What I build</samp></h3>
+<h3><samp>📱 Currently building</samp></h3>
 
 <p>
   <samp>
-    I specialize in building polished mobile applications and complete
-    product ecosystems, combining mobile apps, backend services,
-    APIs and modern cloud technologies.
-  </samp>
-</p>
-
-<p>
-  <samp>
-    Currently building <b>Nileon</b>, a technology platform for barbershops,
-    focused on management, appointments, customer engagement and
-    AI-powered business insights.
+    <b>Nileon</b> — a technology platform for barbershops, focused on
+    management, appointments, customer engagement and AI-powered
+    business insights.
   </samp>
 </p>
 
@@ -64,17 +58,19 @@
 
 <h3><samp>🌎 Socials</samp></h3>
 
-<a href="https://www.linkedin.com/in/mikefernando/" target="_blank">
-  <img src="assets/icons/linkedin.svg" width="48" height="48"/>
-</a>
-
-<a href="https://github.com/mikefernando" target="_blank">
-  <img src="assets/icons/github.svg" width="48" height="48"/>
-</a>
-
-<a href="https://mikefernando.github.io/cv/" target="_blank">
-  <img src="assets/icons/blog.svg" width="48" height="48"/>
-</a>
+<p>
+  <a href="https://github.com/mikefernando">
+    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mikefernando/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://mikefernando.github.io/cv/">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" alt="CV"/>
+  </a>
+</p>
 
 ---
 
@@ -83,6 +79,7 @@
 <p>
   <samp>
     You can find my experience, projects and professional background
-    on my <a href="https://mikefernando.github.io/cv/"><b>resume</b></a>.
+    on my
+    <a href="https://mikefernando.github.io/cv/"><b>resume</b></a>.
   </samp>
 </p>
