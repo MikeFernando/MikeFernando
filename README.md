@@ -54,25 +54,7 @@
   </samp>
 </p>
 
----
 
-<h3><samp>🌎 Socials</samp></h3>
-
-<p>
-  <a href="https://github.com/mikefernando">
-    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/mikefernando/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://mikefernando.github.io/cv/">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" alt="CV"/>
-  </a>
-</p>
-
----
 
 <h3><samp>📄 Resume</samp></h3>
 
